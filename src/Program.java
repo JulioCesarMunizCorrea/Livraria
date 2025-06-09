@@ -5,6 +5,7 @@ public class Program {
 		System.out.println("Oĺa eu sou Goku");
 		System.out.println("Testando eclipse");
 		System.out.println("teste w11");
+		System.out.println("outro teste");
 
 	}
 
