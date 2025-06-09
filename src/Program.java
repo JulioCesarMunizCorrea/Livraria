@@ -6,6 +6,7 @@ public class Program {
 		System.out.println("Testando eclipse");
 		System.out.println("teste w11");
 		System.out.println("outro teste");
+		System.out.println("sé é louco não compensa");
 
 	}
 
